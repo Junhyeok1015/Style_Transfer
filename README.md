@@ -16,6 +16,6 @@ Instance Normalization: The Missing Ingredient for Fast Stylization : https://ar
 - Image & Video Download : https://www.pexels.com/
 
 ## Explanation
-### 1. 화풍 변화해보기
+### 1. 화풍 변화해보기(main1.py)
 ![image](https://user-images.githubusercontent.com/18099627/105436124-f67fe900-5ca1-11eb-951f-4c27c9120ed2.png)
 ![image](https://user-images.githubusercontent.com/18099627/105436153-05ff3200-5ca2-11eb-90c8-e029ef0af097.png)
