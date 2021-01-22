@@ -11,11 +11,11 @@ Instance Normalization: The Missing Ingredient for Fast Stylization : https://ar
 - OpenCV
 - numpy
 
-## Dwonload
-- Model Download(ECCV16) : https://s3-us-west-2.amazonaws.com/secure.notion-static.com/
-0f83d3b6-bf704fad-8e8f-5094efd82345/eccv16.zip
-- Model Download(instance_norm) : https://s3-us-west-2.amazonaws.com/secure.notion-static.com/
-c7e9f91d-ff834724-a0276316199fac41/instance_norm.zip
+## Download
+- Unzip zip files in models folder
 - Image & Video Download : https://www.pexels.com/
 
-* 모델을 다운로드 받고 models 폴더를 만들어 저장해주세요
+## Explanation
+### 1. 화풍 변화해보기
+![image](https://user-images.githubusercontent.com/18099627/105436124-f67fe900-5ca1-11eb-951f-4c27c9120ed2.png)
+![image](https://user-images.githubusercontent.com/18099627/105436153-05ff3200-5ca2-11eb-90c8-e029ef0af097.png)
