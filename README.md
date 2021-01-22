@@ -20,10 +20,14 @@ Instance Normalization: The Missing Ingredient for Fast Stylization : https://ar
 ![image](https://user-images.githubusercontent.com/18099627/105436124-f67fe900-5ca1-11eb-951f-4c27c9120ed2.png)
 ![image](https://user-images.githubusercontent.com/18099627/105436153-05ff3200-5ca2-11eb-90c8-e029ef0af097.png)
 
-### 2. 화풍 변환 2개 적용해보기(main2.py)
+### 2. 화풍 변환 2개 적용해보기(세로 ver.)(main2.py)
 ![image](https://user-images.githubusercontent.com/18099627/105436263-465eb000-5ca2-11eb-8737-870ab8c16e9c.png)
 ![image](https://user-images.githubusercontent.com/18099627/105436281-4e1e5480-5ca2-11eb-85d9-2e6f51915b70.png)
 
-### 3. 원하는 부분만 Crop해서 화풍 변경하기(main3.py)
+### 3. 원하는 부분만 Crop해서 화풍 변경해보기(main3.py)
 ![image](https://user-images.githubusercontent.com/18099627/105436454-950c4a00-5ca2-11eb-822f-e5b6bfd95efd.png)
 ![image](https://user-images.githubusercontent.com/18099627/105436388-773ee500-5ca2-11eb-8c0e-97daaf2e5694.png)
+
+### 4. 화풍 변환 여러개 적용해보기(가로 ver.)(main4.py)
+![image](https://user-images.githubusercontent.com/18099627/105436531-bbca8080-5ca2-11eb-870e-27582b0dde76.png)
+![image](https://user-images.githubusercontent.com/18099627/105436543-c258f800-5ca2-11eb-901a-396c8c427a96.png)
